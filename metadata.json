@@ -1,0 +1,6 @@
+{
+  "name": "Ladha & Sherehe - Premium Restaurant",
+  "description": "Tovuti rasmi ya mgahawa wa kifahari wa Ladha & Sherehe. Enjoy the finest culinary creations with premium catering and reservation options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
